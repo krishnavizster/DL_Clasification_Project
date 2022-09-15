@@ -19,6 +19,11 @@ list_of_files = [
     f"src/{pckage_name}/pipeline/__init__.py",
     f"src/{pckage_name}/entity/__init__.py",
     f"src/{pckage_name}/constants/__init__.py",
+    "tests/__init__.py",
+    "tests/unit/__init__.py",
+    "tests/integration/__init__.py",
+   
+
     
     "configs/config.yaml",
     "dvc.yaml",
