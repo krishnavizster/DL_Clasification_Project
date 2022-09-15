@@ -5,6 +5,13 @@ notebook
 numpy
 matplotlib
 seaborn
+python-box==1.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+
+
+
 
 -e .
 
@@ -14,4 +21,4 @@ seaborn
     flake8>=5.0.4  #to test any mistakes like extra spaces given 
     tox>=3.25.1   # to test different working environments
     black>=22.8.0
-    
+
