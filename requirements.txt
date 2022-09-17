@@ -1,4 +1,4 @@
-tensorflow 
+tensorflow
 dvc
 pandas
 notebook
@@ -9,16 +9,8 @@ python-box==6.0.2
 pyYAML
 tqdm
 ensure==1.0.2
-
-
-
+joblib
+types-PyYAML
 
 -e .
-
-#Dev requirements 
-    pytest>=7.1.3
-    mypy>=0.971
-    flake8>=5.0.4  #to test any mistakes like extra spaces given 
-    tox>=3.25.1   # to test different working environments
-    black>=22.8.0
 
