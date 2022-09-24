@@ -1,1 +1,1 @@
-from deepClassifier.components.data_ingestion import DataIngestion
+from deepClaffier.components.data_ingestion import DataIngestion

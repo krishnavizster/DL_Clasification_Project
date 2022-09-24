@@ -1,4 +1,4 @@
-from deepClassifier.utils.common import *
+from deepClaffier.utils.common import *
 
 
 

@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "deepClassifier"
 AUTHOR_USER_NAME = "c17hawke"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "deepClaffier"
 AUTHOR_EMAIL = "krishnavizster@gmail.com"
 
 setuptools.setup(
